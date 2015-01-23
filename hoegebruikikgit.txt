@@ -1,0 +1,16 @@
+stap 1:
+
+git add *
+stap 2:
+git pull
+
+stap 3
+git commit -m "bericht"
+
+stap 4
+git pull
+
+stap 5
+git push
+
+
